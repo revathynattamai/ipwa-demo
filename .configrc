@@ -1,0 +1,13 @@
+{
+  "build": {
+    "client": {
+      "port": 5000
+    },
+    "server": {
+      "port": 5001
+    }
+  },
+  "env": {
+    "STAGE_URL": "https://ipwa-demo.herokuapp.com"
+  }
+}
